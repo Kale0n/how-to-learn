@@ -1,0 +1,5 @@
+.table_theme_dark {
+    margin: 80px auto 90px;
+    z-index: 1;
+    row-gap: 80px;
+}
